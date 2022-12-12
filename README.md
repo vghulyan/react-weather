@@ -1,7 +1,11 @@
 # React Weather
 
-<img src="https://github.com/vghulyan/react-weather/public/byCity.png" width="400">
-<img src="https://github.com/vghulyan/react-weather/public/byGeoIcon.png" width="400">
+<div style="width:160px ; height:160px">
+![Weather Info by City](/public/byCity.png?raw=true "Weather Info by City")
+<div>
+<div style="width:160px ; height:160px">
+![Weather Info by GeoPosition](/public/byGeoIcon.png?raw=true "Weather Info by GeoPosition")
+<div>
 
 ## Tech Stack
 
