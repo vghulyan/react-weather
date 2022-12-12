@@ -1,11 +1,7 @@
 # React Weather
 
-<div style="width:160px ; height:160px">
-![Weather Info by City](/public/byCity.png?raw=true "Weather Info by City")
-<div>
-<div style="width:160px ; height:160px">
-![Weather Info by GeoPosition](/public/byGeoIcon.png?raw=true "Weather Info by GeoPosition")
-<div>
+<img src="public/byCity.png" alt="By City" title="Weather by City" width="400">
+<img src="public/byGeoIcon.png" alt="By GeoPosition" title="Weather Info by GeoPosition" width="400">
 
 ## Tech Stack
 
