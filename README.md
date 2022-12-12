@@ -1,6 +1,7 @@
 # React Weather
 
-<img src="https://github.com/vghulyan/react-weather/byCity.png" width="400">
+<img src="https://github.com/vghulyan/react-weather/public/byCity.png" width="400">
+<img src="https://github.com/vghulyan/react-weather/public/byGeoIcon.png" width="400">
 
 ## Tech Stack
 
